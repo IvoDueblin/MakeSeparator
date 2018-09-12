@@ -1,11 +1,10 @@
 --[[
-@description Only when using Commala-theme: Turn track into seperator (TCP & MCP)
-@version 1.0
-@author Ivo Düblin
-@about
-  # MakeSeparator
-@changelog
-  Version 0.2
+ * ReaScript Name: MC_MakeSeparator.lua
+ * Author: Ivo Düblin
+ * Licence: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 0.2
 --]]
 
 local numofTracks = reaper.CountSelectedTracks(0)
