@@ -6,7 +6,7 @@
   # MakeSeparator
 @changelog
   Version 0.2
-]]--
+--]]
 
 local numofTracks = reaper.CountSelectedTracks(0)
 local themeName
