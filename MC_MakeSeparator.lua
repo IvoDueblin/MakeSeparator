@@ -1,10 +1,12 @@
--- @description Only when using Commala-theme: Turn track into seperator (TCP & MCP)
--- @version 1.0
--- @author Ivo Düblin
--- @about
---   # MakeSeparator
--- @changelog
---   Initial version.
+--[[
+@description Only when using Commala-theme: Turn track into seperator (TCP & MCP)
+@version 1.0
+@author Ivo Düblin
+@about
+  # MakeSeparator
+@changelog
+  Version 0.2
+]]--
 
 local numofTracks = reaper.CountSelectedTracks(0)
 local themeName
