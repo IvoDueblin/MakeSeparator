@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1"/>
+<index version="1" commit="937a5f76d936b2cbcb41cc0ab25f1431a1a5bdca">
+  <category name="MakeSeparator">
+    <reapack name="MC_MakeSeparator.lua" type="script" desc="MC_MakeSeparator.lua">
+      <version name="0.2" author="Ivo Düblin" time="2018-09-16T12:21:40Z">
+        <source main="main">https://github.com/IvoDueblin/MakeSeparator/raw/937a5f76d936b2cbcb41cc0ab25f1431a1a5bdca/MakeSeparator/MC_MakeSeparator.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
